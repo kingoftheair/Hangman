@@ -1,13 +1,11 @@
 body {
     background-image:url("../images/wildwest.jpg");
-    
-}
-
-body {
     font-family:fantasy;
     color:black;
     letter-spacing:10px;
 }
+
+
 
 h3 {
     font-size: 40px;
