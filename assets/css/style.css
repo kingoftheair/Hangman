@@ -1,0 +1,18 @@
+body {
+    background-image:url("../images/wildwest.jpg");
+    background-size: 100% 100%;
+}
+
+body {
+    font-family:fantasy;
+    color:black;
+    letter-spacing:10px;
+}
+
+h3 {
+    font-size: 40px;
+}
+
+.img1 {
+    padding-left:300px;
+}
