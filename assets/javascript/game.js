@@ -53,11 +53,11 @@ document.onkeyup = function (event) {
 
     }
 
-    /*not needed
+    
     if (letterFound === false && answer.includes(userGuess)) {
         lettersUsed.push(userGuess);
         guesses--;
-    } */
+    } 
 
     //Reduces guesses remaining by one from 10
     if(word[i] !== userGuess) {
@@ -87,7 +87,7 @@ document.onkeyup = function (event) {
     
 
 
-       /* while(i<word.length){
+        while(i<word.length){
 
             console.log(word[i],userGuess)
             if (word[i]===userGuess){
@@ -96,7 +96,7 @@ document.onkeyup = function (event) {
               console.log("hi",answer);
             }
             i++ 
-          } */
+          } 
     }
 
 
